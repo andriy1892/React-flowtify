@@ -274,6 +274,5 @@ For support and questions:
 - **Heroicons** - For beautiful icons
 
 ---
- -->
 
 **Made with ❤️ by the Flowrity Team**
